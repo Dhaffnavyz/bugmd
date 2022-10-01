@@ -1,11 +1,11 @@
 {
-"name": "haikal-hw",
+"name": "Dhafa-Dnp",
 "version": "1.2.3",
 "description": "WhatsApp Using Lib Baileys Multi Device",
-"main": "kalgans.js",
+"main": "dhaffgans.js",
 "type": "commonjs",
 "scripts": {
-"start": "node kalgans.js"
+"start": "node dhaffgans.js"
 },
 "keywords": [
 "termux",
@@ -18,7 +18,7 @@
 "bot-md",
 "multi-device"
 ],
-"author": "Haikal Hw.",
+"author": "dhaffnavyz",
 "license": "MIT",
 "dependencies": {
 "@adiwajshing/baileys": "^4.1.0",
@@ -68,10 +68,10 @@
 "devDependencies": {},
 "repository": {
 "type": "git",
-"url": "git+https://github.com/HW-XMTeam/Haikal-Morou.git"
+"url": "git+https://github.com/dhaffnavyz/bugmd.git"
 },
 "bugs": {
-"url": "https://github.com/HW-XMTeam/Haikal-Morou/issues"
+"url": "https://github.com/dhaffnavyz/bugmd/issues"
 },
-"homepage": "https://github.com/HW-XMTeam/Haikal-Morou#readme"
+"homepage": "https://github.com/dhaffnavyz/bugmd#readme"
 }
